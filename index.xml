@@ -6,10 +6,19 @@
     <description>Recent content on ryoma blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Aug 2018 17:06:24 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Aug 2018 00:41:48 +0900</lastBuildDate>
     
 	<atom:link href="https://ryoma-tokushige.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>https://ryoma-tokushige.github.io/posts/second/</link>
+      <pubDate>Fri, 10 Aug 2018 00:41:48 +0900</pubDate>
+      
+      <guid>https://ryoma-tokushige.github.io/posts/second/</guid>
+      <description> 明日もいい天気（大嵐） </description>
+    </item>
     
     <item>
       <title>ブログ始めました</title>
