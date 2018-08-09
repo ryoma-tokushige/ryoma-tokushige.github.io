@@ -1,6 +1,7 @@
 ---
-title: "My First Post"
+title: "ブログ始めました"
 date: 2018-08-08T17:06:24+09:00
-draft: true
+draft: false
 ---
 
+## 今日はいい天気でした（台風）
