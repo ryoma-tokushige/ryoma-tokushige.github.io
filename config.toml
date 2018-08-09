@@ -1,5 +1,5 @@
 baseURL = "https://ryoma-tokushige.github.io/blog/"
 languageCode = "en-us"
-title = "亮磨伝"
+title = "ryoma blog"
 theme = "ananke"
 canonifyurls = true
