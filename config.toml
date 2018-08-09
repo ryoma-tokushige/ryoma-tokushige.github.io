@@ -1,4 +1,4 @@
-baseURL = "https://ryoma-tokushige.github.io/blog/"
+baseURL = "https://ryoma-tokushige.github.io"
 languageCode = "en-us"
 title = "ryoma blog"
 theme = "ananke"

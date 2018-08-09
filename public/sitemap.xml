@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ryoma-tokushige.github.io/blog/categories/</loc>
+    <loc>https://github.com/ryoma-tokushige/ryoma-tokushige.github.io.git/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ryoma-tokushige.github.io/blog/tags/</loc>
+    <loc>https://github.com/ryoma-tokushige/ryoma-tokushige.github.io.git/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ryoma-tokushige.github.io/blog/</loc>
+    <loc>https://github.com/ryoma-tokushige/ryoma-tokushige.github.io.git/</loc>
     <priority>0</priority>
   </url>
   
