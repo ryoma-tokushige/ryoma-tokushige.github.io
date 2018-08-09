@@ -27,11 +27,12 @@ jobs:
       - run:
           name: push to master
           command: |
-              git clone git@github.com:ryoma-tokushige/ryoma-tokushige.github.io.git
               hugo
+              git clone https://github.com/ryoma-tokushige/ryoma-tokushige.github.io.git
               ls
               cp -rp public/* ryoma-tokushige.github.io/
               cd ryoma-tokushige.github.io
+              ls
               git remote set-url origin git@github.com:ryoma-tokushige/ryoma-tokushige.github.io.git
               git add .
               git commit -m "[ci skip] publish"
