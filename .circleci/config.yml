@@ -29,6 +29,7 @@ jobs:
           command: |
               git clone git@github.com:ryoma-tokushige/ryoma-tokushige.github.io.git
               hugo
+              ls
               cd public && git add .
-              cd public && git commit -m "[ci skip] publish"
-              cd public && git push origin master
+              git commit -m "[ci skip] publish"
+              git push origin master
