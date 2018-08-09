@@ -30,6 +30,9 @@ jobs:
               git clone git@github.com:ryoma-tokushige/ryoma-tokushige.github.io.git
               hugo
               ls
-              cd public && git add .
+              cp -rp public/* ryoma-tokushige.github.io/
+              cd ryoma-tokushige.github.io
+              git remote set-url origin git@github.com:ryoma-tokushige/ryoma-tokushige.github.io.git
+              git add .
               git commit -m "[ci skip] publish"
               git push origin master
