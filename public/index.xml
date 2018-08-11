@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ryoma blog</title>
+    <link>https://ryoma-tokushige.github.io/</link>
+    <description>Recent content on ryoma blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Aug 2018 00:41:48 +0900</lastBuildDate>
+    
+	<atom:link href="https://ryoma-tokushige.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>https://ryoma-tokushige.github.io/posts/second/</link>
+      <pubDate>Fri, 10 Aug 2018 00:41:48 +0900</pubDate>
+      
+      <guid>https://ryoma-tokushige.github.io/posts/second/</guid>
+      <description>明日もいい天気（大嵐） 暴風
+ころっけ</description>
+    </item>
+    
+    <item>
+      <title>ブログ始めました</title>
+      <link>https://ryoma-tokushige.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 08 Aug 2018 17:06:24 +0900</pubDate>
+      
+      <guid>https://ryoma-tokushige.github.io/posts/my-first-post/</guid>
+      <description> 今日はいい天気でした（台風） </description>
+    </item>
+    
+  </channel>
+</rss>
